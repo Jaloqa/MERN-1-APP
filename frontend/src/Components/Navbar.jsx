@@ -18,7 +18,7 @@ const Navbar = () => {
         }}
       >
         <Text
-          bgGradient="linear(to-l, #7928CA, #FF0080)"
+          bgGradient="linear(to-l, #7e0aa8, #0970ed)"
           bgClip="text"
           fontSize={{base: "22", sm: "28"}}
           fontWeight="bold"
